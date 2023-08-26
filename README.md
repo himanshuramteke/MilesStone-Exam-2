@@ -11,4 +11,4 @@ Completed Milestone Exam-2 of PW-Skills of my Full Stack Web Development Course.
 * CSS
 * JAVASCRIPT
 * API
-* REACT.JS
+* REACT. JS
