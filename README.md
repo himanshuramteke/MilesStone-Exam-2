@@ -1,4 +1,4 @@
-# MilesStone-Exam-2
+# MileStone-Exam-2[PW SKILLS]
 Completed Milestone Exam-2 of PW-Skills of my Full Stack Web Development Course. In this Exam I made projects which name is Listed below:
 
 ## Projects Names
